@@ -1,4 +1,5 @@
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)]()
+[![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)]()
 
 # mathieukudla
 Hi,
